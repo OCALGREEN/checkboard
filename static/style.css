@@ -1,0 +1,36 @@
+* {
+    margin: 0px;
+    padding: 0px; 
+    font-family: sans-serif;
+}
+
+/* Single Use Classess */
+.flex {
+    display: flex; 
+}
+.align-center {
+    align-items: center; 
+}
+.justify-center {
+    justify-content: center;
+}
+h1 {
+    background-color: black;
+    color: red;
+    padding: 5px; 
+}
+
+/* Boxes */
+.red-box {
+    background-color: red;
+    color: red;
+    height: 50px;
+    width: 50px;
+}
+
+.black-box {
+    background-color: black;
+    color: black;
+    height: 50px;
+    width: 50px;
+}
